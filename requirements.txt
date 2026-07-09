@@ -1,13 +1,6 @@
-# Data Manipulation & Analysis
 numpy>=1.22.0
 pandas>=1.4.0
-
-# Machine Learning Framework
 scikit-learn>=1.0.0
-
-# Data Visualization (For EDA)
+xgboost>=1.5.0
 matplotlib>=3.5.0
-seaborn>=0.11.2
-
-# Development Environment
-jupyter>=1.0.0
+seaborn>=0.11.0
